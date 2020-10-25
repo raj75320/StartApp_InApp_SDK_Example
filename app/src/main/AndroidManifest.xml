@@ -17,8 +17,8 @@
 
         <!-- TODO replace YOUR_APP_ID with actual value -->
         <meta-data
-            android:name="com.startapp.sdk.APPLICATION_ID"
-            android:value="YOUR_APP_ID" />
+            android:name="com.startapp.sdk.209127994_ID"
+            android:value="http://www.appsgeyser.com/12499978?" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
